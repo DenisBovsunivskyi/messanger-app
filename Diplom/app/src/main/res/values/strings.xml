@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TelegraphDiplom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_username">Denis Bovsunovskyi</string>
+    <string name="settings_default_status">Online</string>
+    <string name="settings_text_account">Account</string>
+    <string name="settings_default_number">+380637276052</string>
+    <string name="settings_label_phone_number">Press to change phone number</string>
+    <string name="settings_default_login">denisbovsunovskyi</string>
+    <string name="settings_label_login">User name</string>
+    <string name="settings_default_bio">About you</string>
+    <string name="settings_label_bio">Write something about you</string>
+    <string name="settings_menu_change_name">Change name</string>
+    <string name="settings_menu_exit">Exit</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Enter code</string>
+    <string name="register_text_we_send">We received you SMS with registration code on your device</string>
+    <string name="register_hint_default_code">_ _ _ _ _ _</string>
+    <string name="register_title_your_phone">Your phone</string>
+    <string name="register_toast_enter_phone">Enter phone number</string>
+    <string name="register_phone_hint">--------------</string>
+    <string name="settings_hint_input_name">Name</string>
+    <string name="settings_hint_input_surname">Surname</string>
+    <string name="settings_toast_name_is_empty">Name can not be empty</string>
+    <string name="toast_data_update">Data updated</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="settings_input_bio">bio</string>
+    <string name="clear_chat">Clear chat</string>
+    <string name="delete_chat">Delete chat</string>
+    <string name="create_group">Create group</string>
+    <string name="members">Members</string>
+    <string name="members_group_list">Members list</string>
+    <string name="delete_message_menu">Delete message</string>
+    <string name="cancell_menu_message">Cancel</string>
+    <string name="delete_message_sch">Delete message</string>
+    <string name="change_message">Change message</string>
+    <string name="add_members">Додати учасників</string>
+    <string name="cancel_menu_popup">Сancel</string>
+    <string name="text_box_message">Message</string>
+
+    <plurals name="count_members">
+        <item quantity="one">%d member</item>
+        <item quantity="other">%d members</item>
+    </plurals>
+</resources>

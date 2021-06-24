@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/delete_single_chat_message"
+        android:visible="true"
+        android:title="@string/delete_message_sch"
+
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/cancel_single_chat"
+        android:title="@string/cancel_menu_popup"
+        app:showAsAction="never"/>
+</menu>

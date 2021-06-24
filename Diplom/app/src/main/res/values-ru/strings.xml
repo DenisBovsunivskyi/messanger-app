@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TelegraphDiplom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_username">Denis Bovsunovskyi</string>
+    <string name="settings_default_status">Online</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_default_number">+380637276052</string>
+    <string name="settings_label_phone_number">Натисніть щоб змінити номер телефону</string>
+    <string name="settings_default_login">denisbovsunovskyi</string>
+    <string name="settings_label_login">Імя користувача</string>
+    <string name="settings_default_bio">Про себе</string>
+    <string name="settings_label_bio">Напишіть про себе</string>
+    <string name="settings_menu_change_name">Змінити імя</string>
+    <string name="settings_menu_exit">Вихід</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Введіть код</string>
+    <string name="register_text_we_send">Ми відправили вам SMS з кодом перевірки на Ваш телефон</string>
+    <string name="register_hint_default_code">_ _ _ _ _ _</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone">Введіть номер телефону</string>
+    <string name="register_phone_hint">--------------</string>
+    <string name="settings_hint_input_name">Імя</string>
+    <string name="settings_hint_input_surname">Прізвище</string>
+    <string name="settings_toast_name_is_empty">Імя не може бути порожнім</string>
+    <string name="toast_data_update">Дані оновлено</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="settings_input_bio">bio</string>
+    <string name="clear_chat">Очистити чат</string>
+    <string name="delete_chat">Видалити чат</string>
+    <string name="create_group">Створити группу</string>
+    <string name="delete_message_sch">Видалити повідомлення</string>
+    <string name="text_box_message">Повідомлення</string>
+
+    <string name="cancel_menu_popup">Відмінити</string>
+    <plurals name="count_members">
+        <item quantity="one">%d участник</item>
+        <item quantity="few">%d участника</item>
+        <item quantity="many">%d участників</item>
+        <item quantity="other">%d участників</item>
+    </plurals>
+</resources>
